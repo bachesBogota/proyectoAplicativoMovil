@@ -1,5 +1,5 @@
 # Aplicativo móvil - proyecto sistema de detección de baches
-## Link del apk: https://drive.google.com/drive/u/0/folders/1QMyaug5PARfeYDKW05xd-wIRjDNhttD0
+## Link del apk: https://drive.google.com/file/d/1waZgmc_WPNUheGOWhPP6DAof7Ih_5k6n/view?usp=sharing
 ## Instrucciones en el archivo manualAppMovil.pdf
 ### Correo: prueba@bachesBogota.com
 ### Contraseña: contrasena
