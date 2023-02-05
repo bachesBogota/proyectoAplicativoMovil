@@ -4,5 +4,5 @@
 ### Correo: prueba@bachesBogota.com
 ### Contraseña: contrasena
 ## Credenciales en el archivo manualWeb.pdf
-### Correo: jussanchezt@gmail.com
-### Contraseña: jussanchezt
+### Correo: prueba@bachesBogota.com 
+### Contraseña: contrasena
